@@ -7,16 +7,13 @@ xcuserdata/
 *.xcworkspace/
 GoogleService-Info.plist
 web/functions/node_modules
-web-start/functions/node_modules
 cloud-functions-start/functions/node_modules
 cloud-functions/functions/node_modules
 .firebaserc
 firebase-debug.log
 .firebase
-
 */node_modules/**
 web/public/**/*.js
-web-start/public/**/*.js
 performance-monitoring/public/**/*.js
 performance-monitoring-start/public/**/*.js
-*/src/firebase-config.js
+web/src/firebase-config.js
